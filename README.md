@@ -1,6 +1,6 @@
-# dropbox-clone
+# dropbox-login
 
-This is my first front end project, a Dropbox clone landing page i did to train my skills in html, css and responsive design.
+This a replica of a Dopbox page / Usuful for phishing Campaign 
 
 ### technologies used
   <div style="display: inline-block"><br/>
